@@ -1,0 +1,16 @@
+.section-1{
+    background-image: url("bg23.png");
+    height: 500px;
+    width: 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.manage-heading{
+    font-size: 3rem;
+    font-weight: 700;
+
+}
+.manage-para{
+
+}
